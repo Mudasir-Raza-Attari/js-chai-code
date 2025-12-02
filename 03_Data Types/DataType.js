@@ -5,13 +5,11 @@
 // string ""
 // Boolean true/false
 // null standalone value
-// undefined 
+// undefined
 // symbols unique
-
 
 //object
 
-console.log(typeof 'hitesh');
-console.log(typeof null);
-console.log(typeof undefined);
-
+// console.log(typeof 'hitesh');
+// console.log(typeof null);
+// console.log(typeof undefined);
