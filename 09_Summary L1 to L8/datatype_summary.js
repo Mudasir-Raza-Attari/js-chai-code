@@ -1,6 +1,6 @@
-// 
+// JavaScript is a dynamically typed language
 
-// Primitive
+// Primitive  (call by value) call pe copy di jati hai 
 
 // 1. String
 // 2. Number
@@ -15,5 +15,5 @@
 // non-Primitive or refrence
 
 // 1. Array
-// 2. Objects
+// 2. Objects               vvvv imp
 // 3. Function
