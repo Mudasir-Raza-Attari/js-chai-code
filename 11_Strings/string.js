@@ -10,4 +10,13 @@ console.log(name.charAt(5));
 console.log(myName.charAt(14));
 console.log(newName.charAt(6));
 console.log(myName.indexOf("R"));
-console.log();
+
+const gameName = new String("Muhammad");
+console.log(gameName[0]);
+console.log(gameName.length);
+console.log(gameName.toLocaleUpperCase());
+console.log(gameName.charAt(3));
+console.log(gameName.indexOf('m'));
+// trim slice replace include
+
+
