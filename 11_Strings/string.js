@@ -16,7 +16,5 @@ console.log(gameName[0]);
 console.log(gameName.length);
 console.log(gameName.toLocaleUpperCase());
 console.log(gameName.charAt(3));
-console.log(gameName.indexOf('m'));
-// trim slice replace include
-
-
+console.log(gameName.indexOf("m"));
+// trim slice replace include split
