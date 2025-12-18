@@ -3,7 +3,7 @@ const coding = ["js", "ruby", "java", "python", "c++"];
 // function
 // coding.forEach(function (item) {
 // console.log(item);
-// });
+// for Each koi b value return nahi karta 
 
 //array
 coding.forEach((val) => {
