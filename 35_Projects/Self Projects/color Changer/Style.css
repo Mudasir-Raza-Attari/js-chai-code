@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+nav {
+  height: 63px;
+  background-color: rgb(79, 156, 156);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.button {
+  height: 72px;
+  width: 72px;
+  display: flex;
+  display: inline-block;
+
+  border: 1px solid black;
+  border-radius: 50%;
+}
+#Red {
+  background-color: red;
+}
+#Yellow {
+  background-color: yellow;
+}
+#Pink {
+  background-color: pink;
+}
