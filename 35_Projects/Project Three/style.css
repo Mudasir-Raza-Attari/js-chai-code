@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: teal;
+}
+.nav {
+  height: 100px;
+  background-color: rgb(192, 140, 240);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  color: rgb(208, 144, 144);
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  width: 100vw;
+}
+#clock {
+  padding: 17px;
+  background-color: yellow;
+  border-radius: 6px;
+  font-size: 2em;
+}
